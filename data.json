@@ -1,0 +1,193 @@
+[
+{
+    "nome": "Coraline Jones",
+    "titulo": "A Exploradora Curiosa",
+    "descricao": "Uma jovem aventureira, curiosa e destemida, que se muda para Pink Palace e descobre a porta secreta.",
+    "idade_aproximada": "11 anos",
+    "imagem": "img/coraline.webp",
+    "link": "https://coraline.fandom.com/pt-br/wiki/Coraline_Jones"
+  },
+  {
+    "nome": "Mel Jones",
+    "titulo": "A Mãe Ocupada",
+    "descricao": "Mãe de Coraline, sobrecarregada pelo trabalho e muitas vezes distante, mas carinhosa à sua maneira.",
+    "idade_aproximada": "40 anos",
+    "imagem": "img/meljones.webp",
+    "link": "https://coraline.fandom.com/pt-br/wiki/Mel_Jones"
+  },
+  {
+    "nome": "Boneca Coraline",
+    "titulo": "A Pequena Espiã",
+    "descricao": "Uma boneca de pano com a aparência de Coraline, usada pela Beldam para espioná-la no mundo real e atraí-la para o Outro Mundo.",
+    "idade_aproximada": "Recente",
+    "imagem": "img/boneca.webp",
+    "link": "https://coraline.fandom.com/pt-br/wiki/Coraline_-_Boneca"
+  },
+  {
+    "nome": "Charlie Jones",
+    "titulo": "O Pai Distraído",
+    "descricao": "Pai de Coraline, focado em seu trabalho, desajeitado na cozinha e muitas vezes desatento às necessidades de Coraline.",
+    "idade_aproximada": "40 anos",
+    "imagem": "img/painormal.webp",
+    "link": "https://coraline.fandom.com/pt-br/wiki/Charlie_Jones"
+  },
+  {
+    "nome": "Outra Mãe (Beldam)",
+    "titulo": "A Costureira de Almas",
+    "descricao": "Uma duplicata alta, esguia e assustadora de Mel Jones, com botões nos olhos, que busca roubar a alma de crianças solitárias.",
+    "idade_aproximada": "Desde o início dos tempos",
+    "imagem": "img/outramae.webp",
+    "link": "https://viloes.fandom.com/pt-br/wiki/A_Beldam"
+  },
+  {
+    "nome": "Outro Pai",
+    "titulo": "O Compositor Melancólico",
+    "descricao": "Versão pálida e submissa de Charlie Jones, forçado a cozinhar pratos elaborados e tocar piano pela Outra Mãe.",
+    "idade_aproximada": "40 anos (aparência)",
+    "imagem": "img/outropai.webp",
+    "link": "https://coraline.fandom.com/pt-br/wiki/Other_Father"
+  },
+  {
+    "nome": "Wybie Lovat (Wyborn Lovat)",
+    "titulo": "O Vizinho Tagarela",
+    "descricao": "Neto tagarela da proprietária do Pink Palace, que tenta assustar Coraline, mas se torna um aliado hesitante.",
+    "idade_aproximada": "11 anos",
+    "imagem": "img/wybienormal.webp",
+    "link": "https://coraline.fandom.com/pt-br/wiki/Wybie_Lovat"
+  },
+  {
+    "nome": "Wybie Fantoche (The Scarecrow Wybie)",
+    "titulo": "O Amigo Silencioso",
+    "descricao": "Um ser feito de palha e espantalho, criado pela Outra Mãe, que serve como um Wybie mudo e mais submisso.",
+    "idade_aproximada": "Recente",
+    "imagem": "img/wybiebotao.webp",
+    "link": "https://coraline.fandom.com/pt-br/wiki/Other_Wybie"
+  },
+  {
+    "nome": "O Gato Preto",
+    "titulo": "O Guia Sarcástico",
+    "descricao": "Um gato preto misterioso e falante que viaja entre os mundos. Ele atua como um guia e mentor para Coraline, ajudando-a a entender a verdadeira natureza da Beldam.",
+    "idade_aproximada": "Desconhecida",
+    "imagem": "img/ogato.webp",
+    "link": "https://coraline.fandom.com/pt-br/wiki/O_Gato"
+  },
+  {
+    "nome": "Miss Spink (April Spink)",
+    "titulo": "A Vidente Teatral",
+    "descricao": "Ex-atriz teatral britânica, residente do Pink Palace, que compartilha o apartamento com Miss Forcible e adora cachorros e ler folhas de chá.",
+    "idade_aproximada": "60 anos",
+    "imagem": "img/spink.jpg",
+    "link": "https://coraline.fandom.com/pt-br/wiki/April_Spink"
+  },
+  {
+    "nome": "Miss Forcible (Miriam Forcible)",
+    "titulo": "A Artista Dramática",
+    "descricao": "Ex-atriz teatral, co-residente de Pink Palace, que adora cachorros e tem uma queda pelo drama.",
+    "idade_aproximada": "60 anos",
+    "imagem": "img/forcible.webp",
+    "link": "https://coraline.fandom.com/pt-br/wiki/Miriam_Forcible"
+  },
+  {
+    "nome": "Mr. Bobinsky",
+    "titulo": "O Ginasta dos Ratos",
+    "descricao": "Um ginasta russo excêntrico que afirma treinar um circo de ratos saltadores no andar de cima.",
+    "idade_aproximada": "50 anos",
+    "imagem": "img/bobinskynormal.webp",
+    "link": "https://coraline.fandom.com/pt-br/wiki/Sr._Bobinsky"
+  },
+  {
+    "nome": "Outro Mr. Bobinsky",
+    "titulo": "O Mestre do Circo Fantasma",
+    "descricao": "Versão acrobática e de pele azulada de Bobinsky, mestre de cerimônias do circo de ratos fantasmagóricos no Outro Mundo.",
+    "idade_aproximada": "40 anos (aparência)",
+    "imagem": "img/bobinskybotao.webp",
+    "link": "https://coraline.fandom.com/pt-br/wiki/Outro_Sr._Bobinsky"
+  },
+  {
+    "nome": "Menino Fantasma",
+    "titulo": "A Alma Doce",
+    "descricao": "Uma das três crianças aprisionadas pela Beldam, que foi atraído pelo doce ou guloseima de sua época.",
+    "idade_aproximada": "Desconhecida (Preso há décadas)",
+    "imagem": "img/criancasfantasmas.webp",
+    "link": "https://laikafilms-fandom-com.translate.goog/wiki/Ghost_Children?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=pt&_x_tr_pto=tc"
+  },
+  {
+    "nome": "Garota Fantasma com Chapéu",
+    "titulo": "A Alma Vitoriana",
+    "descricao": "Uma das vítimas da Beldam, que foi atraída por um 'jogo' e que avisa Coraline sobre o destino dos botões.",
+    "idade_aproximada": "Desconhecida (Presa há séculos)",
+    "link": "https://laikafilms-fandom-com.translate.goog/wiki/Ghost_Children?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=pt&_x_tr_pto=tc"
+  },
+  {
+    "nome": "Garota Fantasma Vítima da Rainha",
+    "titulo": "A Alma Real",
+    "descricao": "Uma das três almas perdidas, que se descreve como uma rainha ou princesa que perdeu seu lar para a Outra Mãe.",
+    "idade_aproximada": "Desconhecida (Presa há décadas)",
+    "link": "https://laikafilms-fandom-com.translate.goog/wiki/Ghost_Children?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=pt&_x_tr_pto=tc"
+  },
+  {
+    "nome": "Palácio cor-de-rosa",
+    "titulo": "A Casa Misteriosa",
+    "descricao": "Um antigo e dilapidado casarão vitoriano dividido em apartamentos, onde Coraline e sua família se mudam.",
+    "idade_aproximada": "Centenário",
+    "imagem": "img/palaciocorderosa.webp",
+    "link": "https://coraline.fandom.com/pt-br/wiki/O_Palácio_Cor-de-Rosa"
+  },
+  {
+    "nome": "Jardim da Outra Mãe",
+    "titulo": "O Jardim Armadilha",
+    "descricao": "Um jardim suntuoso e bioluminescente, moldado no rosto da Coraline, que se transforma em uma armadilha viscosa no clímax.",
+    "idade_aproximada": "Mutável",
+    "imagem": "img/jardim.webp",
+    "link": "https://coraline.fandom.com/pt-br/wiki/O_Jardim"
+  },
+  {
+    "nome": "Chave do Mundo Secreto",
+    "titulo": "A Chave de Botão",
+    "descricao": "Uma chave antiga com um botão na cabeça, usada para abrir a pequena porta que leva ao Outro Mundo.",
+    "idade_aproximada": "Centenária",
+    "imagem": "img/chave.webp",
+    "link": "https://coraline.fandom.com/pt-br/wiki/A_Chave"
+  },
+  {
+    "nome": "A Mão Separada (Luva)",
+    "titulo": "A Garra da Bruxa",
+    "descricao": "A mão mecânica restante da Outra Mãe, forçada a se separar de seu corpo, que busca recuperar a Chave no final do filme.",
+    "idade_aproximada": "Desde o início dos tempos",
+    "imagem": "img/mao.jpg",
+    "link": "https://coraline.fandom.com/pt-br/wiki/A_Mão"
+  },
+  {
+    "nome": "O Poço Sem Fundo",
+    "titulo": "O Portal Esquecido",
+    "descricao": "Um poço abandonado e coberto perto do Pink Palace que, segundo a lenda, pode levar ao centro da Terra. É onde a ameaça final é descartada.",
+    "idade_aproximada": "Desconhecida",
+    "imagem": "img/opoco.webp",
+    "link": "https://coraline.fandom.com/pt-br/wiki/O_Poço"
+  },
+  {
+    "nome": "Ratos Saltadores Fantasmagóricos",
+    "titulo": "Os Espiões da Beldam",
+    "descricao": "Ratos brancos com olhos de botão, mensageiros da Outra Mãe, que a servem e espionam no Outro Mundo e no mundo real.",
+    "idade_aproximada": "Variável",
+    "imagem": "img/ratos.jpg",
+    "link": "https://coraline-fandom-com.translate.goog/wiki/The_Mouse_Circus?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=pt&_x_tr_pto=tc"
+  },
+  {
+    "nome": "Scottie Dogs",
+    "titulo": "Os Anjos de Pelo",
+    "descricao": "Cachorros das Misses Spink e Forcible, geralmente maltrapilhos, que carregam as almas de cachorros anteriores da dupla.",
+    "idade_aproximada": "5 anos",
+    "imagem": "img/cachorro.webp",
+    "link": "https://coraline-fandom-com.translate.goog/wiki/The_Scottish_Terriers?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=pt&_x_tr_pto=tc"
+  },
+  {
+    "nome": "A Porta Secreta",
+    "titulo": "A Passagem para o Outro Mundo",
+    "descricao": "Uma pequena porta coberta por papel de parede, que é a passagem dimensional entre o mundo real e o domínio da Beldam.",
+    "idade_aproximada": "Centenária",
+    "imagem": "img/porta.jpg",
+    "link": "https://coraline.fandom.com/pt-br/wiki/A_Porta"
+  }
+
+]
