@@ -21,6 +21,7 @@ data.json → dados utilizados no projeto
  ▶️ Como executar
 1. Baixe ou clone o repositório
 2. Abra o arquivo `index.html` no navegador
+3. Ou acesse: https://malu-jpeg.github.io/imersao-dev-coraline/
 
  🎯 Objetivo
 Praticar conceitos de desenvolvimento web, manipulação de dados em JSON e interação com JavaScript.
